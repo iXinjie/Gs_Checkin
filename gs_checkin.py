@@ -1,6 +1,6 @@
 """
 cron: 0 10 0 ? * *
-new Env('AIRPORT_ACCOUNT');
+new Env('光速云签到');
 """
 
 import requests
