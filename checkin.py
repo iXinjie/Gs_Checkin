@@ -1,3 +1,8 @@
+"""
+cron: 0 10 0 ? * *
+new Env('AIRPORT_ACCOUNT');
+"""
+
 import requests
 from login import login,get_cookies
 from ql_api import get_envs
